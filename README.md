@@ -1,4 +1,4 @@
-### Aqui está o que estou trabalhando! 👋
+### Aqui está o que eu estou trabalhando! 👋
 
 - 🔭 Atualmente estou trabalhando em... FreeLancer
 - 🌱 Atualmente estou aprendendo... TypeScript
