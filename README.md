@@ -1,3 +1,5 @@
+![gif preview frota.dev](https://github.com/WallaceFrota/WallaceFrota/blob/main/previews/frotadev.gif?rawn=true)
+
 ### Aqui está o que eu estou trabalhando! 👋
 
 - 🔭 Atualmente estou trabalhando em... FreeLancer
