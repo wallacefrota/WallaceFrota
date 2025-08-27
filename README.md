@@ -29,4 +29,4 @@ I have experience with the following technologies:
 *I am a proactive, collaborative and results-oriented professional.*
 
 ## Contact
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/wallacefrota)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/wallacefrota-dev)
